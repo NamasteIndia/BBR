@@ -238,7 +238,7 @@ while true; do
                 ;;
             6)
                 clear
-                bash <(curl -Lso- https://git.io/superspeed_uxh)
+                bash <(curl -Lso- https://raw.githubusercontent.com/NamasteIndia/BBR/refs/heads/dev/superspeed.sh)
                 ;;
             7)
                 clear
